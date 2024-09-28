@@ -1,0 +1,35 @@
+.top {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 20px;
+    display: flex;
+    justify-content:space-between;
+    box-shadow: 2px 1px 2px #eee;
+}
+.left {
+    display: flex;
+}
+.para {
+    font-size: 1.35rem;
+    font-weight: 400;
+}
+.heading {
+    font-size: 2.75rem;
+    line-height: 1.25;
+}
+.bttn {
+    background-color: #387ed1;
+    color: #fff;
+    border: 1px solid rgba(0, 0, 0, 0) !important;
+    border-radius: 3px;
+    display: inline-block;
+    padding: 10px 30px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 20px;
+    }
+
+.bttn:hover {
+    background-color: black;
+}    
+
